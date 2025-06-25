@@ -32,7 +32,7 @@ SPMS is built on a modular, scalable microservices architecture, ensuring flexib
 - **Digital Transactions:** Simulate secure payments and generate digital receipts.
 - **Comprehensive Analytics:** Analyze usage by city, zone, and owner for data-driven decisions.
 - **Entry/Exit Simulation:** Log and audit vehicle movements for security and reporting.
-- **Historical Logs:** Maintain complete booking and transaction history for users and admins.
+- **Historical Logs:** Maintain complete booking and transaction history for users & admins.
 
 ## 🧑‍💻 Quick Start Guide
 
