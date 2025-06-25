@@ -85,7 +85,7 @@ mvn spring-boot:run
 
 - **API Testing:**  
   Use the provided Postman collection to validate and explore all backend endpoints.  
-  [Postman Collection](./postman_collection.json)
+  [Postman Collection](./postman-collection.json)
 
 - **Eureka Service Registry:**  
   Visualize and confirm active microservices.  
