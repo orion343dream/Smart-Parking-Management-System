@@ -1,6 +1,6 @@
 # Smart Parking Management System (SPMS)
 
-![Eureka Dashboard](./docs/screenshots/eureka_dashboard.png
+![Eureka Dashboard](docs/screenshots/eureka_dashboard.png
 
 Urban centers are plagued by traffic congestion, wasted fuel, and lost productivity—much of it caused by inefficient parking management[1]. The **Smart Parking Management System (SPMS)** is a cloud-native, microservice-driven platform engineered to address these challenges. SPMS empowers drivers to find, reserve, and pay for parking in real time, enables owners to manage spaces dynamically, and simulates secure payments—all while supporting city-wide analytics and sustainable mobility[1].
 
