@@ -76,7 +76,7 @@ SPMS is a cloud-native, microservice-based platform that solves urban parking ch
 
 ## 🧪 Testing
 
-* **Postman Collection:** [Postman Collection](./postman_collection.json)
+* **Postman Collection:** [Postman Collection](./postman-collection.json)
 * Use Postman to execute and validate all API endpoints across microservices.
 
 ## 📂 Repository Structure
