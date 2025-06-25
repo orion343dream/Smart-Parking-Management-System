@@ -1,18 +1,18 @@
 # Smart Parking Management System (SPMS)
 
 
-Urban centers are plagued by traffic congestion, wasted fuel, and lost productivity—much of it caused by inefficient parking management[1]. The **Smart Parking Management System (SPMS)** is a cloud-native, microservice-driven platform engineered to address these challenges. SPMS empowers drivers to find, reserve, and pay for parking in real time, enables owners to manage spaces dynamically, and simulates secure payments—all while supporting city-wide analytics and sustainable mobility[1].
+Urban centers are plagued by traffic congestion, wasted fuel, and lost productivity—much of it caused by inefficient parking management. The **Smart Parking Management System (SPMS)** is a cloud-native, microservice-driven platform engineered to address these challenges. SPMS empowers drivers to find, reserve, and pay for parking in real time, enables owners to manage spaces dynamically, and simulates secure payments—all while supporting city-wide analytics and sustainable mobility.
 
 ## 🎯 Key Business Objectives
 
 - **Reduce urban congestion** and emissions by streamlining parking search and allocation.
 - **Boost efficiency** for drivers and parking owners with real-time space management.
 - **Enable digital transformation** of parking operations for municipalities and private providers.
-- **Deliver actionable insights** through analytics on space usage by city, zone, and owner[1].
+- **Deliver actionable insights** through analytics on space usage by city, zone, and owner.
 
 ## 🏗️ Solution Architecture
 
-SPMS is built on a modular, scalable microservices architecture, ensuring flexibility, maintainability, and rapid deployment. The system leverages Spring Boot for core services, with optional support for Node.js or Python microservices as needed[1].
+SPMS is built on a modular, scalable microservices architecture, ensuring flexibility, maintainability, and rapid deployment. The system leverages Spring Boot for core services, with optional support for Node.js or Python microservices as needed.
 
 | Component             | Technology               | Role & Functionality                                      |
 |-----------------------|--------------------------|-----------------------------------------------------------|
@@ -32,7 +32,7 @@ SPMS is built on a modular, scalable microservices architecture, ensuring flexib
 - **Digital Transactions:** Simulate secure payments and generate digital receipts.
 - **Comprehensive Analytics:** Analyze usage by city, zone, and owner for data-driven decisions.
 - **Entry/Exit Simulation:** Log and audit vehicle movements for security and reporting.
-- **Historical Logs:** Maintain complete booking and transaction history for users and admins[1].
+- **Historical Logs:** Maintain complete booking and transaction history for users and admins.
 
 ## 🧑‍💻 Quick Start Guide
 
@@ -109,22 +109,22 @@ SPMS/
 ## 💡 Implementation Highlights
 
 - **Microservice Best Practices:**  
-  Each service is independently deployable, stateless, and communicates via REST APIs, ensuring high cohesion and low coupling[1].
+  Each service is independently deployable, stateless, and communicates via REST APIs, ensuring high cohesion and low coupling.
 
 - **Scalability & Maintainability:**  
-  Centralized configuration and dynamic service discovery enable seamless scaling and updates without downtime[1].
+  Centralized configuration and dynamic service discovery enable seamless scaling and updates without downtime.
 
 - **Security & Robustness:**  
   Authentication and authorization are handled at the API gateway and user service levels. All payment flows are simulated for safe testing.
 
 - **Testing-First Approach:**  
-  All APIs are thoroughly validated using Postman, with edge cases and error handling included in the test suite[1].
+  All APIs are thoroughly validated using Postman, with edge cases and error handling included in the test suite.
 
 ## 🏙️ Why SPMS?
 
 - **Solves real urban problems:** Reduces congestion, emissions, and driver frustration.
 - **Promotes digital transformation:** Supports smart city initiatives and data-driven management.
-- **Highly extensible:** Easily integrates IoT sensors and new services as urban needs evolve[1].
+- **Highly extensible:** Easily integrates IoT sensors and new services as urban needs evolve.
 
 ## 📜 License
 
